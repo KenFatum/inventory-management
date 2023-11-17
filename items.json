@@ -1,0 +1,19 @@
+[ {
+  "id" : 1700141197934,
+  "name" : "Sims3",
+  "price" : 23.0,
+  "category" : "Software",
+  "quantity" : 12
+}, {
+  "id" : 1700172196143,
+  "name" : "GameBoy",
+  "price" : 2000.0,
+  "category" : "Spielekonsole",
+  "quantity" : 20
+}, {
+  "id" : 1700207472212,
+  "name" : "C#",
+  "price" : 12.0,
+  "category" : "OOP",
+  "quantity" : 1
+} ]
